@@ -1,0 +1,11 @@
+{
+      "monday": {
+            "monday": "fitness"
+      },
+      "tuesday": {
+            "tuesday": "reading book"
+      },
+      "friday": {
+            "friday": "reading book,fitness,homework,assignment,computer coding"
+      }
+}
